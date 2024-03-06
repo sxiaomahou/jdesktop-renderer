@@ -1,0 +1,9 @@
+{
+  "name": "jugglechat-desktop",
+  "version": "1.0.1",
+  "description": "",
+  "author": "sxiaomahou",
+  "dependencies": {
+    "sqlite3": "^5.1.7"
+  }
+}
